@@ -1,0 +1,213 @@
+{
+  "main": {
+    "name": "Rodrigo ZUNIGA",
+    "occupation": "Salesforce Consultant",
+    "company": "Solganeo",
+    "description": "Programming lover who seeks to improve his skills and collaborate on large projects",
+    "image": "profilepic.jpg",
+    "bio": "I'm a dancer at heart, a game development lover with an entrepreneurial spirit and a passion for coding. Born in Mexico City, I moved to France where I completed my Computer Science Engineering Degree at the University of Technology of Compiegne. I had my first Developer Experience at Faurecia as an Intern. After this, I started a new experience with Solganeo in an Apprenticeship by creating Salesforce Solutions.",
+    "contactmessage": "",
+    "email": "rzunigat@hotmail.com",
+    "phone": "+330766797619",
+    "address": {
+      "street": "",
+      "city": "Paris",
+      "state": "",
+      "zip": ""
+    },
+    "website": "https://rodrigo-personal-website.herokuapp.com/",
+    "resumedownload": "https://drive.google.com/file/d/149m6xuZRT1dJAwhOPeNEDTly3qB757Ae/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "#",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "#",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/rodrigo-zu%C3%B1iga-1121431b9/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "#",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/uzunigat",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "New Technologies are not a problem",
+    "education": [
+      {
+        "school": "Université de Technologie de Compiègne",
+        "degree": "Computer Science Engineer",
+        "graduated": "August - 2022",
+        "description": "I learned many aspects of Computer Science ranging from the basics of computing in different programming languages to more advanced topics such as IoT, cloud and distributed systems. I participated in small team projects like fully distributed Facebook using docker containers, desktop applications using C++ and QT. On the other hand, I was part of a team of more than 25 developers creating a stategy python game."
+      },
+      {
+        "school": "IPN",
+        "degree": "Computer Technician",
+        "graduated": "July - 2017",
+        "description": "I learned the basics of structured and object-oriented programming as well as networks and databases. I made basic projects such as Java EE application and file traitement program using C."
+      }
+    ],
+    "work": [
+      {
+        "company": "Solganeo",
+        "title": "Salesforce Consultant",
+        "years": "July 2021 - Present",
+        "description": "Adapt Salesforce solutions. Within the startup I learned to lead developer teams and solve different types of problems in internal applications (Salesforce) or external (Node, Talend, Jenkins, ...). I made the migration of the website developed with PHP to a CMS (Wordpress) and I was responsible for the development of a web-push-browser application that allows sending notifications to clients subscribed to a web browser using Node.js."
+      },
+      {
+        "company": "Audibene",
+        "title": "SMS Custom Activity",
+        "years": "February 2022 - Present",
+        "description": "Fix bugs and create new features with a Node.js application connected to Salesforce Marketing Cloud Journeys in order to send SMS. "
+      },
+      {
+        "company": "Faurecia",
+        "title": "Audit System",
+        "years": "September 2020 - February 2021",
+        "description": "Finalize the web-based digital audit version, Adapt the system according to the requests formulated by our internal 'GIS' department, Provide feedback and modifications to comments made by users, Ensure the setting and correction of bugs"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "Node Js",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "100%"
+      },
+      {
+        "name": "Docker",
+        "level": "70%"
+      },
+      {
+        "name": "Jenkins",
+        "level": "50%"
+      },
+      {
+        "name": "Game Maker Studio",
+        "level": "60%"
+      },
+      {
+        "name": "Unity",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Castle Raider",
+        "category": "RPG Game using Game Maker Studio 2",
+        "image": "castle_riders.png",
+        "url": "https://github.com/uzunigat/Castle_Raider"
+      },
+      {
+        "title": "Pacman",
+        "category": "Classic Pacman Game (Unity)",
+        "image": "pacman.png",
+        "url": "https://github.com/uzunigat/Pizzaman"
+      },
+      {
+        "title": "Monsterja Land",
+        "category": "Infinite Game using Unity",
+        "image": "monsterja_land.png",
+        "url": "https://github.com/uzunigat/SuperMonster"
+      },
+      {
+        "title": "Distributed Facebook",
+        "category": "Distributed FB using php endpoints and Distributed Algorithmes and docker network",
+        "image": "distributed-fb.png",
+        "url": "https://github.com/uzunigat/distributed-fb"
+      },
+      {
+        "title": "UTChat",
+        "category": "Chat Rooms applications using Java and JSP",
+        "image": "java-chat.png",
+        "url": "https://github.com/uzunigat/distributed-fb"
+      }
+      ,
+      {
+        "title": "University Trombi",
+        "category": "React Application to search information about Computer Students and Researchers at the University",
+        "image": "trombi.png",
+        "url": "https://github.com/uzunigat/trombi-utc"
+      },
+      {
+        "title": "Personal Website",
+        "category": "Resume created with React and deployed with Heroku PaaS",
+        "image": "personal_website.png",
+        "url": "https://github.com/uzunigat/heroku-personal-website"
+      }
+
+    ]
+  },
+  "certificates": {
+
+    "certificates": [
+
+      {
+        "title": "JavaScript",
+        "url": "https://drive.google.com/file/d/1ms_lMNqjxDveZ5ZS4SszER47KHo6lOKH/view?usp=sharing",
+        "academy": "Platzi",
+        "image": "javascript.png"
+
+      },
+      {
+        "title": "Docker",
+        "url": "https://drive.google.com/file/d/1ms_lMNqjxDveZ5ZS4SszER47KHo6lOKH/view?usp=sharing",
+        "academy": "Platzi",
+        "image": "docker.png"
+
+      },
+      {
+        "title": "Jenkins",
+        "url": "https://drive.google.com/file/d/1ms_lMNqjxDveZ5ZS4SszER47KHo6lOKH/view?usp=sharing",
+        "academy": "Platzi",
+        "image": "jenkins.png"
+
+      },
+      {
+        "title": "Git",
+        "url": "https://drive.google.com/file/d/1ms_lMNqjxDveZ5ZS4SszER47KHo6lOKH/view?usp=sharing",
+        "academy": "Platzi",
+        "image": "git.png"
+
+      }
+
+    ]
+
+
+
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "If you’re passionate about something and you work hard, then I think you will be successful",
+        "user": "Pierre Omidyar"
+      }
+    ]
+  }
+}
