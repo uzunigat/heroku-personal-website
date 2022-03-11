@@ -169,10 +169,10 @@
     "certificates": [
 
       {
-        "title": "JavaScript",
-        "url": "https://drive.google.com/file/d/1ms_lMNqjxDveZ5ZS4SszER47KHo6lOKH/view?usp=sharing",
+        "title": "Linux Server",
+        "url": "https://drive.google.com/file/d/1vJ1_tRystPUrUmX0GmA2yIBmsnL2Obd0/view?usp=sharing",
         "academy": "Platzi",
-        "image": "javascript.png"
+        "image": "Linux_Server.png"
 
       },
       {
@@ -194,6 +194,13 @@
         "url": "https://drive.google.com/file/d/1ms_lMNqjxDveZ5ZS4SszER47KHo6lOKH/view?usp=sharing",
         "academy": "Platzi",
         "image": "git.png"
+
+      },       
+      {
+        "title": "JavaScript",
+        "url": "https://drive.google.com/file/d/1ms_lMNqjxDveZ5ZS4SszER47KHo6lOKH/view?usp=sharing",
+        "academy": "Platzi",
+        "image": "javascript.png"
 
       }
 
