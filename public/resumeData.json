@@ -1,11 +1,11 @@
 {
   "main": {
     "name": "Rodrigo ZUNIGA",
-    "occupation": "Salesforce Consultant",
-    "company": "Solganeo",
-    "description": "Programming lover who seeks to improve his skills and collaborate on large projects",
+    "occupation": "Fullstack Engineer",
+    "company": "Audibene",
+    "description": "Eager innovator and coding enthusiast on a quest to shape a brighter tech-driven future",
     "image": "profilepic.jpg",
-    "bio": "I'm a dancer at heart, a game development lover with an entrepreneurial spirit and a passion for coding. Born in Mexico City, I moved to France where I completed my Computer Science Engineering Degree at the University of Technology of Compiegne. I had my first Developer Experience at Faurecia as an Intern. After this, I started a new experience with Solganeo in an Apprenticeship by creating Salesforce Solutions.",
+    "bio": "A dancer at heart, a game development enthusiast with an entrepreneurial spirit, and a passion for coding. Originally from Mexico City, I later moved to France to pursue my Computer Science Engineering Degree at the University of Technology of Compiegne. My journey into the world of software development began with an internship at Faurecia, where I gained my first hands-on experience as a Developer. To complete my Engineering degree, I embarked on an apprenticeship as a Salesforce consultant, further honing my skills. Currently, I am thriving as a Fullstack Engineer, leveraging my diverse background and expertise to make a positive impact in the tech industry. ",
     "contactmessage": "",
     "email": "rzunigat@hotmail.com",
     "phone": "+330766797619",
@@ -15,7 +15,7 @@
       "state": "",
       "zip": ""
     },
-    "website": "https://rodrigo-personal-website.herokuapp.com/",
+    "website": "https://rodrigo-personal-portfolio.herokuapp.com/",
     "resumedownload": "https://drive.google.com/file/d/149m6xuZRT1dJAwhOPeNEDTly3qB757Ae/view?usp=sharing",
     "social": [
       {
@@ -63,15 +63,21 @@
     ],
     "work": [
       {
+        "company": "Audibene",
+        "title": "Fullstack Engineer",
+        "years": "September 2022 - Present",
+        "description": "Fullstack Engineer specializing in telemedicine projects. Expert in implementing backend and frontend solutions, deploying microservices using Kubernetes, Pulsar, Jenkins, Docker, TypeScript, and Go. Passionate about revolutionizing healthcare through "
+      },
+      {
         "company": "Solganeo",
         "title": "Salesforce Consultant",
-        "years": "July 2021 - Present",
+        "years": "July 2021 - August 2022",
         "description": "Adapt Salesforce solutions. Within the startup I learned to lead developer teams and solve different types of problems in internal applications (Salesforce) or external (Node, Talend, Jenkins, ...). I made the migration of the website developed with PHP to a CMS (Wordpress) and I was responsible for the development of a web-push-browser application that allows sending notifications to clients subscribed to a web browser using Node.js."
       },
       {
         "company": "Audibene",
         "title": "SMS Custom Activity",
-        "years": "February 2022 - Present",
+        "years": "February 2022 - May 2022",
         "description": "Fix bugs and create new features with a Node.js application connected to Salesforce Marketing Cloud Journeys in order to send SMS. "
       },
       {
@@ -83,35 +89,47 @@
     ],
     "skills": [
       {
-        "name": "Git",
-        "level": "80%"
-      },
-      {
-        "name": "Node Js",
-        "level": "80%"
-      },
-      {
-        "name": "CSS",
-        "level": "70%"
-      },
-      {
-        "name": "JavaScript",
+        "name": "Typescript",
         "level": "100%"
       },
       {
+        "name": "Git",
+        "level": "90%"
+      },
+      {
+        "name": "SQL",
+        "level": "90%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "80%"
+      },
+      {
         "name": "Docker",
-        "level": "70%"
+        "level": "80%"
+      },
+      {
+        "name": "React",
+        "level": "80%"
       },
       {
         "name": "Jenkins",
-        "level": "50%"
+        "level": "70%"
       },
       {
-        "name": "Game Maker Studio",
+        "name": "Go",
         "level": "60%"
       },
       {
-        "name": "Unity",
+        "name": "Rust",
+        "level": "60%"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "60%"
+      },
+      {
+        "name": "AWS",
         "level": "60%"
       }
     ]
@@ -147,8 +165,7 @@
         "category": "Chat Rooms applications using Java and JSP",
         "image": "java-chat.png",
         "url": "https://github.com/uzunigat/distributed-fb"
-      }
-      ,
+      },
       {
         "title": "University Trombi",
         "category": "React Application to search information about Computer Students and Researchers at the University",
@@ -161,53 +178,41 @@
         "image": "personal_website.png",
         "url": "https://github.com/uzunigat/heroku-personal-website"
       }
-
     ]
   },
   "certificates": {
-
     "certificates": [
-
       {
         "title": "Linux Server",
         "url": "https://drive.google.com/file/d/1vJ1_tRystPUrUmX0GmA2yIBmsnL2Obd0/view?usp=sharing",
         "academy": "Platzi",
         "image": "Linux_Server.png"
-
       },
       {
         "title": "Docker",
         "url": "https://drive.google.com/file/d/1ms_lMNqjxDveZ5ZS4SszER47KHo6lOKH/view?usp=sharing",
         "academy": "Platzi",
         "image": "docker.png"
-
       },
       {
         "title": "Jenkins",
         "url": "https://drive.google.com/file/d/1ms_lMNqjxDveZ5ZS4SszER47KHo6lOKH/view?usp=sharing",
         "academy": "Platzi",
         "image": "jenkins.png"
-
       },
       {
         "title": "Git",
         "url": "https://drive.google.com/file/d/1ms_lMNqjxDveZ5ZS4SszER47KHo6lOKH/view?usp=sharing",
         "academy": "Platzi",
         "image": "git.png"
-
-      },       
+      },
       {
         "title": "JavaScript",
         "url": "https://drive.google.com/file/d/1ms_lMNqjxDveZ5ZS4SszER47KHo6lOKH/view?usp=sharing",
         "academy": "Platzi",
         "image": "javascript.png"
-
       }
-
     ]
-
-
-
   },
   "testimonials": {
     "testimonials": [
